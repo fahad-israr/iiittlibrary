@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/iiittlibrary/static/js/0.10f2a16f.chunk.js"
   },
   {
-    "revision": "1f7aea97e624321e0e60",
-    "url": "/iiittlibrary/static/js/main.1f7aea97.chunk.js"
+    "revision": "2d6a2e31e88e50148ca0",
+    "url": "/iiittlibrary/static/js/main.2d6a2e31.chunk.js"
   },
   {
     "revision": "ec3cd0bc83aa337da48b58c2e321bebd",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/iiittlibrary/static/css/11.8121bcfd.chunk.css"
   },
   {
-    "revision": "1f7aea97e624321e0e60",
+    "revision": "2d6a2e31e88e50148ca0",
     "url": "/iiittlibrary/static/css/main.648e62ba.chunk.css"
   },
   {
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/iiittlibrary/static/css/2.e166e7be.chunk.css"
   },
   {
-    "revision": "f498a185e839c0b8586e87ef63e09316",
+    "revision": "ac94c412ca6a1d67a1f7fce7a9515c55",
     "url": "/iiittlibrary/index.html"
   }
 ];
