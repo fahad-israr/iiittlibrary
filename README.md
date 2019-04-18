@@ -1,6 +1,6 @@
 # iiittlibrary 
 
-A Progressive Web App servicing as a Library Management System for College
+A Progressive Web App serving as a Library Management System for College
 
 Experince the app here: **https://fahad00cms.github.io/iiittlibrary/**
 
@@ -51,4 +51,7 @@ Experince the app here: **https://fahad00cms.github.io/iiittlibrary/**
 
 
 *Maintains Transaction History of Both Student and Books
+
+
+*Uses Browser Cache to main User Session
 
