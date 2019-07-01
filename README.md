@@ -2,7 +2,7 @@
 
 A Progressive Web App serving as a Library Management System for College
 
-Experince the app here: **https://fahad00cms.github.io/iiittlibrary/**
+Experince the app here: **https://fahad-israr.github.io/iiittlibrary/**
 
 
 ***********************************************
