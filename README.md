@@ -1,4 +1,4 @@
-# iiittlibrary 
+# IIIT Trichy Library 
 
 A Progressive Web App serving as a Library Management System for College
 
